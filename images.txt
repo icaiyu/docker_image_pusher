@@ -9,3 +9,4 @@ mysql
 jenkins/jenkins
 hello-world
 portainer/portainer-ce
+java:8
