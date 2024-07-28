@@ -11,3 +11,4 @@ hello-world
 portainer/portainer-ce
 java:8
 jenkins/blueocean
+maven
