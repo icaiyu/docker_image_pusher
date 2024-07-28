@@ -10,4 +10,4 @@ jenkins/jenkins
 hello-world
 portainer/portainer-ce
 jenkins/blueocean
-maven:3.9.8-eclipse-temurin-11
+maven:3.9.8-sapmachine-22
