@@ -10,3 +10,4 @@ jenkins/jenkins
 hello-world
 maven:3.9.8-sapmachine-22
 node
+portainer/helper-reset-password
