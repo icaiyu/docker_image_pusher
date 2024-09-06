@@ -13,3 +13,4 @@ node
 portainer/helper-reset-password
 openjdk:8
 ollama
+mongo
