@@ -13,3 +13,4 @@ node
 portainer/helper-reset-password
 openjdk:8
 mongo
+mysql:5.7
